@@ -1,8 +1,6 @@
 # CodeSample
 
-Code samples of Minghan Yang's project on simulation of moonquake coda.
+Code samples of Minghan Yang's project of moonquake simulation.
 
 msg: A paralled C program to simulate moonquake waves propagating in the moon.
-The 4nd diagram on https://sites.google.com/view/minghanyang/research is produced by this program.
-
-As the project is still in process, only the sub-routine that initialize and finalize the program is displayed.
+As the project is still in progress, only the sub-routine that initialize and finalize the program is displayed.
